@@ -27,5 +27,4 @@ function getMitjana(args){
     return suma/args.length;
 }
 
-
 module.exports = { sumaFinsA, esParell,getMinim,getMaxim,getMitjana };
